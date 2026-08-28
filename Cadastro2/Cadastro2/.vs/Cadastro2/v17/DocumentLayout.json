@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\andre.hmsantana\\downloads\\cadastro2 (1)\\cadastro2\\cadastro2\\cadastro2\\cadastro2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\andre.hmsantana\\downloads\\cadastro2 (1)\\cadastro2\\cadastro2\\cadastro2\\cadastro2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\andre.hmsantana\\downloads\\cadastro2 (1)\\cadastro2\\cadastro2\\cadastro2\\cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\andre.hmsantana\\downloads\\cadastro2 (1)\\cadastro2\\cadastro2\\cadastro2\\cadastro2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\andre.hmsantana\\downloads\\cadastro2 (1)\\cadastro2\\cadastro2\\cadastro2\\cadastro2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\cadastro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeToolTip": "Cadastro2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:40.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form2.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form2.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form2.cs",
+              "RelativeToolTip": "Cadastro2\\Form2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:00:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form3.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form3.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form3.cs",
+              "RelativeToolTip": "Cadastro2\\Form3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:14:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form3.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form3.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form3.cs [Design]",
+              "RelativeToolTip": "Cadastro2\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:13:07.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form2.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form2.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form2.cs [Design]",
+              "RelativeToolTip": "Cadastro2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:56:49.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Program.cs",
+              "RelativeToolTip": "Cadastro2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre.hmsantana\\Downloads\\Cadastro2 (1)\\Cadastro2\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs [Design]",
+              "RelativeToolTip": "Cadastro2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:03.427Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

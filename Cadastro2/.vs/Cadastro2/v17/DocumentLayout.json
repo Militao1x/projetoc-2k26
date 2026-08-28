@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|c:\\users\\felipe.csilva104\\documents\\cadastro2\\cadastro2\\cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\cadastro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E269D7-02EC-46BB-B3A2-70827D69B716}|Cadastro2\\Cadastro2.csproj|solutionrelative:cadastro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form1.cs",
+              "ToolTip": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeToolTip": "Cadastro2\\Form1.cs",
+              "ViewState": "AgIAAGICAAAAAAAAAAAQwHYCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:40.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Program.cs",
+              "RelativeToolTip": "Cadastro2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro2\\Form1.cs",
+              "ToolTip": "C:\\Users\\felipe.csilva104\\Documents\\Cadastro2\\Cadastro2\\Cadastro2\\Form1.cs [Design]",
+              "RelativeToolTip": "Cadastro2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:24:03.427Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
